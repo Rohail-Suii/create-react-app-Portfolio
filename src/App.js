@@ -19,14 +19,16 @@ function App() {
         <Grid item xs >
           <Router>
             <Header />
-            <main>
-              <Routes>
-                <Route path="/portfolio" element={<Portfolio />} exact>
-                </Route>
-                <Route path="/" element={<Resume />} exact>
-                </Route>
-              </Routes>
-            </main>
+            <div className="main_content container_shadow">
+              <main>
+                <Routes>
+                  <Route path="/portfolio" element={<Portfolio />} exact>
+                  </Route>
+                  <Route path="/" element={<Resume />} exact>
+                  </Route>
+                </Routes>
+              </main>
+            </div>
           </Router>
           <Footer />
         </Grid>
