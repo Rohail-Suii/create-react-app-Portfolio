@@ -74,7 +74,7 @@
    cursor: pointer;
 }
 .projectDialog .projectDialog_icon:hover {
-   color: var(--main-color);
+   color: var(--main-color) !important;
 }
 .projectModel_icon > .MuiSvgIcon-root {
    font-size: 30px !important;

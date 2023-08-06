@@ -117,8 +117,8 @@ export default {
       tag: 'React + Tailwindcss',
       images: [bikeimg1, bikeimg2, bikeimg3],
       title: 'Bike Rental App',
-      caption: 'A short description',
-      description: 'lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      caption: ' Easily rent bikes hassle-free with our user-friendly app, powered by efficient state management.',
+      description: 'Discover the thrill of exploring new horizons with our adventure bike rental app. Utilizing advanced state management, the app offers a user-friendly experience, enabling adventurers to effortlessly browse, book, and manage their dream bike rentals, ensuring an unforgettable journey every time.',
       links: [
         { link: 'https://github.com/Rohail-Suii/bike_rental', icon: <GitHubIcon /> },
         { link: 'https://bikerental1.netlify.app/', icon: <LanguageIcon /> },
@@ -128,8 +128,8 @@ export default {
       tag: 'React + Material UI',
       images: [portfolioimg1, portfolioimg2],
       title: 'Portfolio Website',
-      caption: 'A short description',
-      description: 'lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      caption: 'Showcasing my talents and achievements built on React and Material-UI, responsive user experience.',
+      description: 'Showcasing my talents and achievements in style with our captivating portfolio website built using React and Material UI. With its modern design and smooth user experience, this website will leave a lasting impression on visitors and help you stand out in the digital world..',
       links: [
         { link: 'https://github.com/Rohail-Suii/create-react-app-Portfolio', icon: <GitHubIcon /> },
       ]
@@ -138,8 +138,8 @@ export default {
       tag: 'React + Tailwindcss',
       images: [bankimg1, bankimg2],
       title: 'Bank App',
-      caption: 'A short description',
-      description: 'lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      caption: 'Experience seamless and intuitive banking on-the-go with our modern, responsive UI/UX bank app',
+      description: 'Our modern bank app boasts a cutting-edge frontend UI/UX design, meticulously crafted to ensure a seamless and user-friendly experience. With a focus on responsiveness, the app adapts effortlessly to various devices, be it smartphones, tablets, or desktops. Enjoy intuitive navigation, and a visually engaging interface that empowers you to manage your finances with ease. Embrace the future of banking convenience and sophistication with our innovative bank app.',
       links: [
         { link: 'https://github.com/Rohail-Suii/bank-app', icon: <GitHubIcon /> },
         { link: 'https://polite-chebakia-aaad5b.netlify.app/', icon: <LanguageIcon /> },
@@ -149,8 +149,8 @@ export default {
       tag: 'Java',
       images: [javaimg1, javaimg2, javaimg3, javaimg4],
       title: 'Shop Management System',
-      caption: 'A short description',
-      description: 'lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      caption: 'Streamline your business operations with our Java OOP-based Shop Management System for efficient and organized management.',
+      description: 'Streamline your business operations with our efficient Shop Management System, developed using Object-Oriented Programming (OOP) principles of Java. This comprehensive software empowers you to effortlessly handle inventory, sales, customer data, and financial records, enhancing productivity and providing a seamless shopping experience for both you and your customers..',
       links: [
         { link: 'https://github.com/Rohail-Suii/OOP-project', icon: <GitHubIcon /> },
         
