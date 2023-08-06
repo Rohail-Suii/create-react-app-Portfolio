@@ -7,7 +7,7 @@ import Portfolio from './pages/portfolio/Portfolio';
 import Resume from './pages/resume/Resume';
 import Footer from './components/Footer/Footer';
 
-import { BrowserRouter as Router, Switch, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router,  Route, Routes } from 'react-router-dom';
 
 function App() {
   return (

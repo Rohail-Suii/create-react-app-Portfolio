@@ -74,7 +74,7 @@ const Resume = () => {
           <h6 className="section_title_text">My Services</h6>
         </Grid>
         <Grid item xs={12}>
-          <Grid container spacing={3} className='service_container'>{
+          <Grid container spacing={0} className='service_container'>{
             ResumeData.services.map((service) => (
               <Grid item xs={12} sm={6} md={3}>
                 <div className="service">
