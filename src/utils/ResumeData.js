@@ -97,7 +97,7 @@ export default {
   ],
   skills: [
     {
-      title: 'Front-End',
+      title: 'Frontend',
       description: [
         'ReactJS',
         'HTML',
@@ -106,6 +106,15 @@ export default {
         'Material UI',
         'Tailwindcss',
         
+      ]
+    },
+    {
+      title: 'Backend + Database',
+      description: [
+        'NodeJs',
+        'Express',
+        'MySql',
+        'MongoDB',
       ]
     },
     {
