@@ -16,6 +16,11 @@ import bankimg1 from '../assets/bank imgs/img1.png';
 import bankimg2 from '../assets/bank imgs/img2.png';
 import portfolioimg1 from '../assets/portfolio/img1.png';
 import portfolioimg2 from '../assets/portfolio/img2.png';
+import pakposting1 from '../assets/Pak Post/hero section.PNG'
+import pakposting2 from '../assets/Pak Post/tracking.PNG'
+import pakposting3 from '../assets/Pak Post/tariff.PNG'
+import pakposting4 from '../assets/Pak Post/hero section old web.PNG'
+import pakposting5 from '../assets/Pak Post/tracking old.PNG'
 export default {
   name: 'Rohail Ahmed',
   title: 'Front-End Developer',
@@ -113,6 +118,16 @@ export default {
     }
   ],
   projects: [
+    {
+      tag: 'React + Express + MySQL',
+      images: [pakposting1, pakposting2, pakposting3, pakposting4, pakposting5],
+      title: 'Pakistan Post Official Website',
+      caption: ' Our website leverages the robust MERN stack technology. Collaborating with a skilled team, I gained valuable experience in SRS, UI/UX, user manuals, and coding.',
+      description: ' Two websites mentioned (https://www.pakpost.gov.pk/index.php and https://ep.gov.pk/) are on the verge of being replaced by the website we developed during our internship at the IT department of Pakistan Posts headquarters. Following the successful completion of all stages and a commendation from DG Pak Post, Hafiz Shakil Ahmed Qureshi, Chairman/Director General, we are gearing up for the big launch. We harnessed the power of the MERN stack technology for this project. Working with a talented team, I had the privilege of gaining hands-on experience across a wide spectrum of areas, including SRS, UI/UX, user manuals, and coding.',
+      links: [
+        { link: 'http://www.pakpost.gov.pk/testppo', icon: <LanguageIcon /> },
+      ]
+    },
     {
       tag: 'React + Tailwindcss',
       images: [bikeimg1, bikeimg2, bikeimg3],

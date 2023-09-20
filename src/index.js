@@ -3,8 +3,18 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import favicon from './assets/images/profile_img1.jpg'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const link = document.querySelector("link[rel~='icon']");
+if (!link) {
+  const newLink = document.createElement('link');
+  newLink.rel = 'icon';
+  newLink.href = favicon;
+  document.head.appendChild(newLink);
+} else {
+  link.href = favicon;
+}
 root.render(
   <React.StrictMode>
     <App />
