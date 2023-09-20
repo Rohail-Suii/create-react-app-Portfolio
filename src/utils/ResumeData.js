@@ -23,7 +23,7 @@ import pakposting4 from '../assets/Pak Post/hero section old web.PNG'
 import pakposting5 from '../assets/Pak Post/tracking old.PNG'
 export default {
   name: 'Rohail Ahmed',
-  title: 'Front-End Developer',
+  title: 'Software Engineer',
   birthday: '01th July 2002',
   email: 'rohailahmed303@gmail.com',
   address: 'Islamabad, Pakistan',
@@ -43,7 +43,7 @@ export default {
     },
   },
 
-  about: "Hello there! I'm a Meta certified ReactJS developer and computer science student with over 2 years of experience as a modern front end web developer. I possess the ability to handle a wide range of tasks, from simple static websites to complex web projects, all while providing top-notch solutions. I excel in supporting, maintaining, and clear communication throughout the entire development process.",
+  about: "I am an experienced MERN stack developer with a proven track record of creating various projects. My expertise lies in crafting responsive designs, seamlessly integrating APIs, establishing and managing databases, and proficiently developing RESTful APIs.",
   experiences: [
     {
       title: 'Wordpress Developer',
